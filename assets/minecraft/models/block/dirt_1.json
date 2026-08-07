@@ -3,6 +3,6 @@
     "textures": {
         "top": "block/packed_dirt_1",
         "bottom": "block/packed_dirt_1",
-        "side":"block/dirt_1"
+        "side": "block/dirt_1"
     }
 }

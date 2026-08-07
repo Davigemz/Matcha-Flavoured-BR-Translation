@@ -1,24 +1,24 @@
 {
-	"type": "minecraft:chest",
-	"pools": [
-		{
-			"rolls": 1,
-			"bonus_rolls": 0,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:poisonous_potato",
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 3,
-								"max": 5
-							}
-						},
-						{
-							"function": "minecraft:set_components",
-							"components": {
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:poisonous_potato",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 5
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
                                 "minecraft:item_model": "minecraft:bruschetta",
                                 "minecraft:item_name": {
                                     "translate": "item.kleispack.bruschetta"
@@ -66,11 +66,11 @@
                                     }
                                 ]
                             }
-						}
-					]
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:kleis_items"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:kleis_items"
 }

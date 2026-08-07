@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/fish_bones"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/fish_bones"
+    }
 }

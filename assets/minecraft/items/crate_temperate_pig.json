@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/crate_temperate_pig"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/crate_temperate_pig"
+    }
 }

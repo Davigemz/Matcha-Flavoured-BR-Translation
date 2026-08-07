@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/sweet_berry_jam"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/sweet_berry_jam"
+    }
 }

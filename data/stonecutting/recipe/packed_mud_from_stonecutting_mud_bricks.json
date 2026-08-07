@@ -1,8 +1,8 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:mud_bricks",
-  "result": {
-    "count": 1,
-    "id": "minecraft:packed_mud"
-  }
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:mud_bricks",
+    "result": {
+        "count": 1,
+        "id": "minecraft:packed_mud"
+    }
 }

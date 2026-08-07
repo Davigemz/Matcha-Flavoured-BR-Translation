@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/adamant_dolabra"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/adamant_dolabra"
+    }
 }

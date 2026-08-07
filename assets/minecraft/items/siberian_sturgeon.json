@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/siberian_sturgeon"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/siberian_sturgeon"
+    }
 }

@@ -1,9 +1,9 @@
 {
-	"layers": {
-		"humanoid": [
-			{
-				"texture": "minecraft:bronze_laurel"
-			}
-		]
-	}
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "minecraft:bronze_laurel"
+            }
+        ]
+    }
 }

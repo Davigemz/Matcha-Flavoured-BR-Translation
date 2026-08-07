@@ -1,7 +1,7 @@
 {
-  "values": [
-    "minecraft:jungle",
-    "minecraft:sparse_jungle",
-    "minecraft:bamboo_jungle"
-  ]
+    "values": [
+        "minecraft:jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:bamboo_jungle"
+    ]
 }

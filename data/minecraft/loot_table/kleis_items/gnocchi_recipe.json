@@ -1,19 +1,19 @@
 {
-	"type": "minecraft:chest",
-	"pools": [
-		{
-			"rolls": 1,
-			"bonus_rolls": 0,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:paper",
-					"weight": 1,
-					"conditions": [],
-					"functions": [
-						{
-							"function": "minecraft:set_components",
-							"components": {
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:paper",
+                    "weight": 1,
+                    "conditions": [],
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
                                 "minecraft:item_model": "minecraft:gnocchi_recipe",
                                 "minecraft:item_name": {
                                     "translate": "item.kleispack.cooking_recipe"
@@ -26,11 +26,11 @@
                                     }
                                 ]
                             }
-						}
-					]
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:kleis_items"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:kleis_items"
 }

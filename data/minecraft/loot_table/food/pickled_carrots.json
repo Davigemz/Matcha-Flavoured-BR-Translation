@@ -1,24 +1,24 @@
 {
-	"type": "minecraft:chest",
-	"pools": [
-		{
-			"rolls": 1,
-			"bonus_rolls": 0,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:poisonous_potato",
-					"functions": [
-						{
-							"function": "minecraft:set_count",
-							"count": {
-								"min": 1,
-								"max": 3
-							}
-						},
-						{
-							"function": "minecraft:set_components",
-							"components": {
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:poisonous_potato",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 3
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
                                 "minecraft:item_model": "minecraft:pickled_carrots",
                                 "minecraft:item_name": {
                                     "translate": "item.kleispack.pickled_carrots"
@@ -68,11 +68,11 @@
                                     "id": "minecraft:glass_bottle"
                                 }
                             }
-						}
-					]
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:kleis_items"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:kleis_items"
 }

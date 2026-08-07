@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/crate_sheep_white"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/crate_sheep_white"
+    }
 }

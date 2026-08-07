@@ -1,26 +1,26 @@
 {
-    "model":{
-      "type": "select",
-      "property": "custom_model_data",
-      "fallback": {
-        "type": "model",
-        "model": "item/rabbit_hide"
-      },
-      "cases": [
-        {
-          "when": "tattered_leather",
-          "model": {
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
             "type": "model",
-            "model": "item/tattered_leather"
-          }
+            "model": "item/rabbit_hide"
         },
-        {
-          "when": "fox_pelt",
-          "model": {
-            "type": "model",
-            "model": "item/fox_pelt"
-          }
-        }
-      ]
+        "cases": [
+            {
+                "when": "tattered_leather",
+                "model": {
+                    "type": "model",
+                    "model": "item/tattered_leather"
+                }
+            },
+            {
+                "when": "fox_pelt",
+                "model": {
+                    "type": "model",
+                    "model": "item/fox_pelt"
+                }
+            }
+        ]
     }
-  }
+}

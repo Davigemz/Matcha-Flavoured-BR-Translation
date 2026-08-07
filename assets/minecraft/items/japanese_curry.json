@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/japanese_curry"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/japanese_curry"
+    }
 }

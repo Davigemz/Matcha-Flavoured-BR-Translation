@@ -1,9 +1,9 @@
 {
-	"layers": {
-		"humanoid": [
-			{
-				"texture": "minecraft:amber_earrings"
-			}
-		]
-	}
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "minecraft:amber_earrings"
+            }
+        ]
+    }
 }

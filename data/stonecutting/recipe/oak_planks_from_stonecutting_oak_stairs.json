@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:stonecutting",
-  "group": "oak_planks",
-  "ingredient": "minecraft:oak_stairs",
-  "result": {
-    "count": 1,
-    "id": "minecraft:oak_planks"
-  }
+    "type": "minecraft:stonecutting",
+    "group": "oak_planks",
+    "ingredient": "minecraft:oak_stairs",
+    "result": {
+        "count": 1,
+        "id": "minecraft:oak_planks"
+    }
 }

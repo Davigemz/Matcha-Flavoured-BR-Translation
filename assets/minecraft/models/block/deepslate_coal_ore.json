@@ -3,6 +3,6 @@
     "textures": {
         "top": "block/deepslate_top",
         "bottom": "block/deepslate_top",
-        "side":"block/deepslate_coal_ore_side"
+        "side": "block/deepslate_coal_ore_side"
     }
 }

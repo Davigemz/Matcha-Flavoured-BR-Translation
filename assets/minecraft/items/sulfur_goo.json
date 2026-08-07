@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/sulfur_goo"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/sulfur_goo"
+    }
 }

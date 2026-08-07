@@ -1,8 +1,12 @@
 {
     "variants": {
         "": [
-			{ "model": "block/allium" },
-			{ "model": "block/allium_1" }
-		]
+            {
+                "model": "block/allium"
+            },
+            {
+                "model": "block/allium_1"
+            }
+        ]
     }
 }

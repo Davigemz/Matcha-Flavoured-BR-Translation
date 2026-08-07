@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/bronze_helmet"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bronze_helmet"
+    }
 }

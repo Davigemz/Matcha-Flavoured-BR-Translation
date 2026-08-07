@@ -1,13 +1,13 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"group": "dirt",
-	"category": "building",
-	"ingredients": [
-		"minecraft:petrified_oak_slab",
-		"minecraft:petrified_oak_slab"
-	],
-	"result": {
-		"id": "minecraft:dirt",
-		"count": 1
-	}
+    "type": "minecraft:crafting_shapeless",
+    "group": "dirt",
+    "category": "building",
+    "ingredients": [
+        "minecraft:petrified_oak_slab",
+        "minecraft:petrified_oak_slab"
+    ],
+    "result": {
+        "id": "minecraft:dirt",
+        "count": 1
+    }
 }

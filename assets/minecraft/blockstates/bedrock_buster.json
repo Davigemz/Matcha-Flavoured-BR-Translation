@@ -1,7 +1,7 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/bedrock_buster"
+    "variants": {
+        "": {
+            "model": "minecraft:block/bedrock_buster"
+        }
     }
-  }
 }

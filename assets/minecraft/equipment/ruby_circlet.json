@@ -1,9 +1,9 @@
 {
-	"layers": {
-		"humanoid": [
-			{
-				"texture": "minecraft:ruby_circlet"
-			}
-		]
-	}
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "minecraft:ruby_circlet"
+            }
+        ]
+    }
 }

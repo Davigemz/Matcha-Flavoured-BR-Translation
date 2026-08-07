@@ -1,6 +1,6 @@
 {
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/carrot_cupcake"
-	}
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/carrot_cupcake"
+    }
 }
