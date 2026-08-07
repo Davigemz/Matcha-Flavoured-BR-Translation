@@ -1,4 +1,9 @@
 {
+    "message.kleispack.loaded": "🍵 Matcha Flavoured is now loaded",
+    "message.kleispack.help": "If you get lost or confused",
+    "message.kleispack.help.bold": " check the advancements",
+    "message.kleispack.evil_banished": "Evil has been banished from the surface.",
+    "message.kleispack.bloodrage": "Bloodrage",
     "block.minecraft.allium": "Hyacinth",
     "block.minecraft.stone": "Limestone",
     "item.minecraft.wheat": "Straw",
