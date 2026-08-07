@@ -41,3 +41,24 @@ Their datapack: https://modrinth.com/datapack/purpurpacks-looting-shears?version
 
 
 *NO ONE MENTIONED KNOWS OF ME OR CONDONES MY WORK. I just wanted to cite where my inspirations came from.
+
+
+
+COMMUNITY FORK / LOCALIZATION CREDITS
+--------------------------------------------------------------------------------
+
+This version is a community-maintained fork of Klei's Matcha Flavoured.
+
+Changes made in this fork:
+- Added Ukrainian and Russian translations
+- Added localization keys for previously hardcoded text where possible
+- Improved datapack localization support
+
+Localization:
+- Ukrainian and Russian translations by imtlx
+
+Original project:
+- Matcha Flavoured by Klei
+- Original credits preserved above
+
+This fork is released under the same CC BY-NC-SA 4.0 International license.
