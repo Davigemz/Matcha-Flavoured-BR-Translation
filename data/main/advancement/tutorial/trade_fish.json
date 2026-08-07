@@ -15,7 +15,7 @@
     },
     "display": {
         "description": {
-            "text": "Sell caught fish to a Fisherman"
+            "translate": "advancement.kleispack.trade_fish.description"
         },
         "icon": {
             "components": {
@@ -25,7 +25,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "text": "Fishmonger"
+            "translate": "advancement.kleispack.trade_fish.title"
         },
         "hidden": false
     },

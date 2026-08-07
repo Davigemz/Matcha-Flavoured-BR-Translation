@@ -52,7 +52,7 @@
     },
     "display": {
         "description": {
-            "text": "Upgrade a Mattock or Dolabra"
+            "translate": "advancement.kleispack.upgrade_mattock.description"
         },
         "icon": {
             "components": {
@@ -62,7 +62,7 @@
             "id": "minecraft:wooden_axe"
         },
         "title": {
-            "text": "Three in One?"
+            "translate": "advancement.kleispack.upgrade_mattock.title"
         },
         "frame": "goal",
         "hidden": false

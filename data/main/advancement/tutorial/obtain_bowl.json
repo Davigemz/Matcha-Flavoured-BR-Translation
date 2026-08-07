@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Make a Ceramic Bowl from Bricks"
+            "translate": "advancement.kleispack.obtain_bowl.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:bowl"
         },
         "title": {
-            "text": "Manners First"
+            "translate": "advancement.kleispack.obtain_bowl.title"
         },
         "hidden": false
     },

@@ -474,7 +474,7 @@
     },
     "display": {
         "description": {
-            "text": "Catch Everything!"
+            "translate": "advancement.kleispack.catch_everything.description"
         },
         "icon": {
             "components": {
@@ -484,7 +484,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "text": "No More Fish in the Sea"
+            "translate": "advancement.kleispack.catch_everything.title"
         },
         "frame": "challenge",
         "hidden": false

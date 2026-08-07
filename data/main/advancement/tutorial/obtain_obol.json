@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Obtain an Obol"
+            "translate": "advancement.kleispack.obtain_obol.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:emerald"
         },
         "title": {
-            "text": "You're Rich!"
+            "translate": "advancement.kleispack.obtain_obol.title"
         },
         "hidden": true
     },

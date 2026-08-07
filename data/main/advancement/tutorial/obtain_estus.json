@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "It Radiates Holy Power. It kind of smells like Curry...maybe Cinnamon?"
+            "translate": "advancement.kleispack.obtain_estus.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:glowstone_dust"
         },
         "title": {
-            "text": "Hellish Powder"
+            "translate": "advancement.kleispack.obtain_estus.title"
         },
         "hidden": true
     },

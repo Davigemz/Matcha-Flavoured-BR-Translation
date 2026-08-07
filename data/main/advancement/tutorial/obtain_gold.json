@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Gold has Fortune and Looting Intrinsics"
+            "translate": "advancement.kleispack.obtain_gold.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:gold_ingot"
         },
         "title": {
-            "text": "The Generous Metal"
+            "translate": "advancement.kleispack.obtain_gold.title"
         },
         "hidden": false
     },

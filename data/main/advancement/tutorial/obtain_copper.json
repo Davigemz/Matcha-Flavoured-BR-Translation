@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Use a Mud Kiln to Smelt Copper"
+            "translate": "advancement.kleispack.obtain_copper.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:copper_ingot"
         },
         "title": {
-            "text": "Brazier"
+            "translate": "advancement.kleispack.obtain_copper.title"
         },
         "show_toast": true,
         "announce_to_chat": true,

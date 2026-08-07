@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "text": "Construct a Warding Stone"
+            "translate": "advancement.kleispack.obtain_warding_stone.description"
         },
         "icon": {
             "components": {
@@ -20,7 +20,7 @@
             "id": "minecraft:chicken_spawn_egg"
         },
         "title": {
-            "text": "Holy Turret"
+            "translate": "advancement.kleispack.obtain_warding_stone.title"
         },
         "frame": "goal",
         "show_toast": true,

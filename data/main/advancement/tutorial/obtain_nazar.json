@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "text": "Holding a Lapis Nazar will Ward the Dead, it can also be attached to some Equipment"
+            "translate": "advancement.kleispack.obtain_nazar.description"
         },
         "icon": {
             "components": {},
@@ -18,7 +18,7 @@
             "id": "minecraft:glistering_melon_slice"
         },
         "title": {
-            "text": "Apotropaic Jewelry"
+            "translate": "advancement.kleispack.obtain_nazar.title"
         },
         "frame": "task",
         "show_toast": true,

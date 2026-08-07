@@ -20,7 +20,7 @@
     },
     "display": {
         "description": {
-            "text": "Commit great evil"
+            "translate": "advancement.kleispack.kill_villager.description"
         },
         "icon": {
             "components": {
@@ -30,7 +30,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "text": "God help you..."
+            "translate": "advancement.kleispack.kill_villager.title"
         },
         "hidden": true
     },

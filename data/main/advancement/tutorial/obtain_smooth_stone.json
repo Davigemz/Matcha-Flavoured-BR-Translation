@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Kilns excel at processing Earthen Materials"
+            "translate": "advancement.kleispack.obtain_smooth_stone.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:smooth_stone"
         },
         "title": {
-            "text": "Mason"
+            "translate": "advancement.kleispack.obtain_smooth_stone.title"
         },
         "hidden": false
     },

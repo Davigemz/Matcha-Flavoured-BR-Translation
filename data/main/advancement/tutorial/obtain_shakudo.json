@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Shakudo grants Copper Equipment Silk Touch and Cleansing Properties"
+            "translate": "advancement.kleispack.obtain_shakudo.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:shulker_shell"
         },
         "title": {
-            "text": "A Gentle Alloy"
+            "translate": "advancement.kleispack.obtain_shakudo.title"
         },
         "hidden": false
     },

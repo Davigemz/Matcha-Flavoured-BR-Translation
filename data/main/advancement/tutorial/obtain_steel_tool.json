@@ -76,7 +76,7 @@
     },
     "display": {
         "description": {
-            "text": "Smith a piece of Steel Equipment"
+            "translate": "advancement.kleispack.obtain_steel_tool.description"
         },
         "icon": {
             "components": {
@@ -86,7 +86,7 @@
             "id": "minecraft:iron_shovel"
         },
         "title": {
-            "text": "Sturdy Steel"
+            "translate": "advancement.kleispack.obtain_steel_tool.title"
         },
         "frame": "goal",
         "hidden": false

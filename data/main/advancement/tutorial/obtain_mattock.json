@@ -40,7 +40,7 @@
     },
     "display": {
         "description": {
-            "text": "Mattocks and Dolabras work as two tools in one, but mine slower than their base tools"
+            "translate": "advancement.kleispack.obtain_mattock.description"
         },
         "icon": {
             "components": {
@@ -50,7 +50,7 @@
             "id": "minecraft:stone_axe"
         },
         "title": {
-            "text": "Two in One"
+            "translate": "advancement.kleispack.obtain_mattock.title"
         },
         "frame": "goal",
         "hidden": false

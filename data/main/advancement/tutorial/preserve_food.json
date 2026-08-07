@@ -94,7 +94,7 @@
     },
     "display": {
         "description": {
-            "text": "Preserve a food to boost its flavour profile"
+            "translate": "advancement.kleispack.preserve_food.description"
         },
         "icon": {
             "components": {
@@ -104,7 +104,7 @@
             "id": "minecraft:poisonous_potato"
         },
         "title": {
-            "text": "Pickles & Jam"
+            "translate": "advancement.kleispack.preserve_food.title"
         },
         "hidden": false
     },

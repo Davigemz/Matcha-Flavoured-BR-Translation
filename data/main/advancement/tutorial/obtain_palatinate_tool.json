@@ -76,7 +76,7 @@
     },
     "display": {
         "description": {
-            "text": "Craft a piece of Palatinate Equipment"
+            "translate": "advancement.kleispack.obtain_palatinate_tool.description"
         },
         "icon": {
             "components": {
@@ -86,7 +86,7 @@
             "id": "minecraft:wooden_axe"
         },
         "title": {
-            "text": "Palatinate Perfection"
+            "translate": "advancement.kleispack.obtain_palatinate_tool.title"
         },
         "frame": "goal",
         "hidden": false

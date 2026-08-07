@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "text": "Make Ramen"
+            "translate": "advancement.kleispack.obtain_ramen.description"
         },
         "icon": {
             "components": {
@@ -20,7 +20,7 @@
             "id": "minecraft:rabbit_stew"
         },
         "title": {
-            "text": "The Best Soup"
+            "translate": "advancement.kleispack.obtain_ramen.title"
         },
         "hidden": false
     },

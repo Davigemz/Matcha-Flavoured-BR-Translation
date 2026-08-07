@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "text": "Construct an Oven from Bricks and Iron"
+            "translate": "advancement.kleispack.obtain_oven.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:furnace"
         },
         "title": {
-            "text": "Now You're Cooking"
+            "translate": "advancement.kleispack.obtain_oven.title"
         },
         "hidden": false
     },

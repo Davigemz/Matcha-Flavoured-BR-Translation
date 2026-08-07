@@ -36,7 +36,7 @@
     },
     "display": {
         "description": {
-            "text": "Catch a fish"
+            "translate": "advancement.kleispack.catch_fish.description"
         },
         "icon": {
             "components": {
@@ -46,7 +46,7 @@
             "id": "minecraft:cod"
         },
         "title": {
-            "text": "What a Catch!"
+            "translate": "advancement.kleispack.catch_fish.title"
         },
         "hidden": false
     },

@@ -24,14 +24,14 @@
     },
     "display": {
         "description": {
-            "text": "Silver, a rare Apotropaic Metal found only in Mountains, enhances Aspects of Alloys and Base Metals"
+            "translate": "advancement.kleispack.obtain_silver.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:prismarine_crystals"
         },
         "title": {
-            "text": "The Warding Metal"
+            "translate": "advancement.kleispack.obtain_silver.title"
         },
         "frame": "goal",
         "hidden": false
