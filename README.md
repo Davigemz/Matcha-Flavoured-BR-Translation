@@ -33,6 +33,12 @@ This project is based on the original datapack and resource pack.
 - Replaced remaining hardcoded text with translation keys
 - Added missing localization support where translation keys were not previously used
 
+## Contributing translations
+
+Want to add another language? Open an issue or submit a pull request.
+
+Please note that new language support requires a translator who can maintain the translation.
+
 ## License
 
 This project is released under the **CC BY-NC-SA 4.0 International** license, the same license as the original project.
