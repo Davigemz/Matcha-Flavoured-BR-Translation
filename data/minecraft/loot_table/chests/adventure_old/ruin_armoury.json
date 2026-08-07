@@ -16,7 +16,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Sword",
+                                "translate": "item.kleispack.rusty_sword",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -46,7 +46,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Axe",
+                                "text": "item.kleispack.rusty_axe",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -68,7 +68,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Broken Bow",
+                                "translate": "item.kleispack.broken_bow",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -91,7 +91,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Helmet",
+                                "translate": "item.kleispack.rusty_helmet",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -121,7 +121,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Chestplate",
+                                "translate": "item.kleispack.rusty_chestplate",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -143,7 +143,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Leggings",
+                                "translate": "item.kleispack.rusty_leggings",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -157,7 +157,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Rusty Boots",
+                                "translate": "item.kleispack.rusty_boots",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -187,7 +187,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Busted Shield",
+                                "translate": "item.kleispack.busted_shield",
                                 "color": "gray",
                                 "italic": false
                             }
@@ -220,7 +220,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Arrow of Fae-Slaying",
+                                "translate": "item.kleispack.arrow_of_fae_slaying",
                                 "color": "yellow",
                                 "italic": false
                             }
@@ -239,7 +239,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Arrow of Fae's Bane",
+                                "translate": "item.kleispack.arrow_of_faes_bane",
                                 "color": "yellow",
                                 "italic": false
                             }

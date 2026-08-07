@@ -67,7 +67,7 @@
                             "function": "set_name",
                             "name": [
                                 {
-                                    "text": "Copper Compass"
+                                    "translate": "item.kleispack.copper_compass"
                                 }
                             ],
                             "target": "item_name"
@@ -108,7 +108,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "Adds 1 Heart. 30 max"
+                                    "translate": "item.kleispack.popped_chorus_fruit.lore"
                                 }
                             ],
                             "mode": "append"
@@ -194,7 +194,7 @@
                                 {
                                     "color": "gray",
                                     "italic": false,
-                                    "text": "Rusty Iron Knife"
+                                    "translate": "item.kleispack.rusty_iron_knife"
                                 }
                             ],
                             "target": "item_name"
@@ -225,7 +225,7 @@
                             "name": [
                                 {
                                     "italic": false,
-                                    "text": "Charcoal Pencil"
+                                    "translate": "item.kleispack.charcoal_pencil"
                                 }
                             ],
                             "target": "item_name"

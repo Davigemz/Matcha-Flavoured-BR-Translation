@@ -58,7 +58,7 @@
                             "name": [
                                 {
                                     "italic": false,
-                                    "text": "Tattered Leather"
+                                    "translate": "item.kleispack.tattered_leather"
                                 }
                             ],
                             "target": "item_name"
@@ -69,7 +69,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "Shred to pieces..."
+                                    "translate": "item.kleispack.tattered_leather.lore"
                                 }
                             ],
                             "mode": "append"
@@ -97,7 +97,7 @@
                             "name": [
                                 {
                                     "italic": false,
-                                    "text": "Cambrian Trousers"
+                                    "translate": "item.kleispack.cambrian_trousers"
                                 }
                             ]
                         },
@@ -107,7 +107,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "Common leggings worn in Cambria"
+                                    "text": "item.kleispack.cambrian_trousers.lore"
                                 }
                             ],
                             "mode": "append"
@@ -147,7 +147,7 @@
                                 {
                                     "color": "yellow",
                                     "italic": false,
-                                    "text": "Old Traveller's Boots"
+                                    "translate": "item.kleispack.old_travellers_boots"
                                 }
                             ]
                         },
@@ -162,7 +162,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "Ideal for Travelling on roads"
+                                    "translate": "item.kleispack.old_travellers_boots.lore"
                                 }
                             ],
                             "mode": "append"

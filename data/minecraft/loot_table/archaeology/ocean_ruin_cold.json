@@ -28,7 +28,9 @@
                             "components": {
                                 "minecraft:damage": 140,
                                 "minecraft:item_model": "minecraft:rusty_axe",
-                                "minecraft:item_name": "Rusty Axe",
+                                "minecraft:item_name": {
+                                    "translate": "item.kleispack.rusty_axe"
+                                },
                                 "minecraft:lore": [
                                     {
                                         "text": "⛏ 6",

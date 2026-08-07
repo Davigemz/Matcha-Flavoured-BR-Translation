@@ -101,7 +101,7 @@
                             "name": [
                                 {
                                     "italic": false,
-                                    "text": "Charcoal Pencil"
+                                    "translate": "item.kleispack.charcoal_pencil"
                                 }
                             ],
                             "target": "item_name"

@@ -143,7 +143,7 @@
                                 {
                                     "color": "dark_purple",
                                     "italic": false,
-                                    "text": "Opal"
+                                    "translate": "item.kleispack.opal"
                                 }
                             ]
                         },
@@ -153,7 +153,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "Widley valued for its prismatic glamour"
+                                    "translate": "item.kleispack.opal.lore"
                                 }
                             ],
                             "mode": "append"
@@ -188,7 +188,7 @@
                                 {
                                     "color": "gold",
                                     "italic": false,
-                                    "text": "Amber"
+                                    "translate": "item.kleispack.amber"
                                 }
                             ]
                         },
@@ -198,7 +198,7 @@
                                 {
                                     "color": "dark_gray",
                                     "italic": false,
-                                    "text": "A common gem that can fetch a decent price"
+                                    "translate": "item.kleispack.amber.lore"
                                 }
                             ],
                             "mode": "append"

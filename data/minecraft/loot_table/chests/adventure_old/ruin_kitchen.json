@@ -70,7 +70,7 @@
                         {
                             "function": "minecraft:set_name",
                             "name": {
-                                "text": "Knife",
+                                "translate": "item.kleispack.knife",
                                 "italic": false
                             }
                         }
