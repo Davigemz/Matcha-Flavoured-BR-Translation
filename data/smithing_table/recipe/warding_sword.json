@@ -18,7 +18,9 @@
                     "italic": false
                 }
             ],
-            "minecraft:item_name": "Warding Sword",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.warding_sword"
+            },
             "minecraft:attribute_modifiers": [
                 {
                     "type": "minecraft:attack_damage",

@@ -14,7 +14,7 @@
                 }
             ],
             "minecraft:item_name": {
-                "text": "Amber Earrings",
+                "translate": "item.kleispack.amber_earrings",
                 "color": "#e58904"
             },
             "minecraft:attribute_modifiers": [

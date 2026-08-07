@@ -39,7 +39,9 @@
             "minecraft:enchantments": {
                 "main:warding1": 1
             },
-            "minecraft:item_name": "Warding Shield"
+            "minecraft:item_name": {
+                "translate": "item.kleispack.warding_shield"
+            }
         }
     },
     "template": "#minecraft:wooden_tool_materials"

@@ -63,7 +63,9 @@
                     }
                 ]
             },
-            "minecraft:item_name": "Golden Pie",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.golden_pie"
+            },
             "minecraft:food": {
                 "nutrition": 6,
                 "saturation": 7

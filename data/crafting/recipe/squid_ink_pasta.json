@@ -38,7 +38,9 @@
                     "squid_ink_pasta"
                 ]
             },
-            "minecraft:item_name": "Squid Ink Pasta",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.squid_ink_pasta"
+            },
             "minecraft:lore": [
                 {
                     "text": "❤❤❤❤",

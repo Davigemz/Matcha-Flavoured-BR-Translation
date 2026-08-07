@@ -64,7 +64,9 @@
                     "chicken_noodle_soup"
                 ]
             },
-            "minecraft:item_name": "Chicken Noodle Soup",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.chicken_noodle_soup"
+            },
             "minecraft:lore": [
                 {
                     "text": "❤❤",

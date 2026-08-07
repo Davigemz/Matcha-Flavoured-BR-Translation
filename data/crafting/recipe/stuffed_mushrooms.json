@@ -36,7 +36,9 @@
                     "italic": false
                 }
             ],
-            "minecraft:item_name": "Stuffed Mushrooms",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.stuffed_mushrooms"
+            },
             "minecraft:food": {
                 "nutrition": 2,
                 "saturation": 0.5

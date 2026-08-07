@@ -47,7 +47,9 @@
                     "paneer_makhani"
                 ]
             },
-            "minecraft:item_name": "Paneer Makhani",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.paneer_makhani"
+            },
             "minecraft:lore": [
                 {
                     "text": "❤❤❤❤",

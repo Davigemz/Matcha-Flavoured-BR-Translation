@@ -37,7 +37,9 @@
                     "ramen"
                 ]
             },
-            "minecraft:item_name": "Ramen"
+            "minecraft:item_name": {
+                "translate": "item.kleispack.ramen"
+            }
         },
         "count": 1,
         "id": "minecraft:rabbit_stew"

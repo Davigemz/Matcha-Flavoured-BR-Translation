@@ -57,7 +57,9 @@
                     "green_curry"
                 ]
             },
-            "minecraft:item_name": "Green Curry",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.green_curry"
+            },
             "minecraft:lore": [
                 {
                     "text": "❤❤❤❤",

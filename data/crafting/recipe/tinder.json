@@ -11,7 +11,9 @@
         "components": {
             "minecraft:max_damage": 1,
             "minecraft:item_model": "minecraft:tinder",
-            "minecraft:item_name": "Tinder"
+            "minecraft:item_name": {
+                "translate": "item.kleispack.tinder"
+            }
         }
     }
 }

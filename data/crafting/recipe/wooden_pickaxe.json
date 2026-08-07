@@ -12,7 +12,9 @@
     ],
     "result": {
         "components": {
-            "minecraft:item_name": "Wooden Pickaxe",
+            "minecraft:item_name": {
+                "translate": "item.minecraft.wooden_pickaxe"
+            },
             "minecraft:tool": {
                 "rules": [
                     {
