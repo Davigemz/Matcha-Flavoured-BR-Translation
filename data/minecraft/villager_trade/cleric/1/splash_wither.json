@@ -29,7 +29,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Crumbling Flask",
+                "translate": "item.kleispack.flask.crumbling",
                 "italic": false
             }
         },

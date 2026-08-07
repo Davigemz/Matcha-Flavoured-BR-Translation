@@ -29,7 +29,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Languid Flask",
+                "translate": "item.kleispack.flask.languid",
                 "italic": false
             }
         },

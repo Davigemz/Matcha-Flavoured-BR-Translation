@@ -30,7 +30,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Cloying Flask",
+                "translate": "item.kleispack.flask.cloying",
                 "italic": false
             }
         },

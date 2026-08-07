@@ -39,7 +39,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Pitch Flask",
+                "translate": "item.kleispack.flask.pitch",
                 "italic": false
             }
         },

@@ -29,7 +29,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Flickering Flask",
+                "translate": "item.kleispack.flask.flickering",
                 "italic": false
             }
         },

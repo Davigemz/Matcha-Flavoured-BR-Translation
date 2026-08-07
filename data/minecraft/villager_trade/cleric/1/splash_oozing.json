@@ -29,7 +29,7 @@
                 }
             ],
             "minecraft:custom_name": {
-                "text": "Volatile Viscous Flask",
+                "translate": "item.kleispack.flask.viscous",
                 "italic": false
             }
         },

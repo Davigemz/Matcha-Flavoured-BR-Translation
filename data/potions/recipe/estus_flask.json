@@ -34,7 +34,7 @@
                 "has_consume_particles": false
             },
             "minecraft:custom_name": {
-                "text": "Estus Flask",
+                "translate": "item.kleispack.flask.estus",
                 "color": "gold",
                 "italic": false
             },
