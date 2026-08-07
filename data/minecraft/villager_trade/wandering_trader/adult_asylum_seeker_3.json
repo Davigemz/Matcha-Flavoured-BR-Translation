@@ -16,25 +16,27 @@
                 }
             },
             "minecraft:item_model": "minecraft:application",
-            "minecraft:item_name": "Asylum Seeker",
+            "minecraft:item_name": {
+                "translate": "item.kleispack.asylum_seeker_application"
+            },
             "minecraft:lore": [
                 {
-                    "text": "Age: Adult",
+                    "translate": "item.kleispack.asylum_seeker_application.lore.age.adult",
                     "color": "dark_gray",
                     "italic": false
                 },
                 {
-                    "text": "Culture: Plains",
+                    "translate": "item.kleispack.asylum_seeker_application.lore.culture.plains",
                     "color": "dark_gray",
                     "italic": false
                 },
                 {
-                    "text": "Cause of Emigration: War",
+                    "item.kleispack.asylum_seeker_application.lore.cause.war": "Cause of Emigration: War",
                     "color": "dark_gray",
                     "italic": false
                 },
                 {
-                    "text": "Click the ground to summon",
+                    "translate": "item.kleispack.asylum_seeker_application.lore.summon",
                     "color": "gray",
                     "italic": false
                 }
