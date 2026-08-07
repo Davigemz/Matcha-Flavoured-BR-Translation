@@ -11,7 +11,7 @@
         "announce_to_chat": false,
         "background": "minecraft:block/netherrack",
         "description": {
-            "translate": "advancement.kleispack.root.description"
+            "translate": "advancement.kleispack.hell.root.description"
         },
         "icon": {
             "count": 1,
@@ -19,7 +19,7 @@
         },
         "show_toast": false,
         "title": {
-            "translate": "advancement.kleispack.root.title"
+            "translate": "advancement.kleispack.hell.root.title"
         }
     },
     "requirements": [

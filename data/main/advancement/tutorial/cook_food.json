@@ -134,7 +134,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.cook_food.description"
+            "translate": "advancement.kleispack.tutorial.cook_food.description"
         },
         "icon": {
             "components": {
@@ -144,7 +144,7 @@
             "id": "minecraft:poisonous_potato"
         },
         "title": {
-            "translate": "advancement.kleispack.cook_food.title"
+            "translate": "advancement.kleispack.tutorial.cook_food.title"
         },
         "hidden": false
     },

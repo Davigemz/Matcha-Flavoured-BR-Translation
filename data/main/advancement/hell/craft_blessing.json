@@ -100,7 +100,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.craft_blessing.description"
+            "translate": "advancement.kleispack.hell.craft_blessing.description"
         },
         "icon": {
             "components": {
@@ -113,7 +113,7 @@
             "id": "minecraft:enchanted_book"
         },
         "title": {
-            "translate": "advancement.kleispack.craft_blessing.title"
+            "translate": "advancement.kleispack.hell.craft_blessing.title"
         },
         "frame": "goal",
         "hidden": false

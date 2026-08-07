@@ -20,7 +20,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.kill_villager.description"
+            "translate": "advancement.kleispack.tutorial.kill_villager.description"
         },
         "icon": {
             "components": {
@@ -30,7 +30,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "translate": "advancement.kleispack.kill_villager.title"
+            "translate": "advancement.kleispack.tutorial.kill_villager.title"
         },
         "hidden": true
     },

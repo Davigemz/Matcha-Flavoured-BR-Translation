@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_benzene.description"
+            "translate": "advancement.kleispack.hell.obtain_benzene.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:endermite_spawn_egg"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_benzene.title"
+            "translate": "advancement.kleispack.hell.obtain_benzene.title"
         },
         "hidden": false
     },

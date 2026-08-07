@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_estus_flask.description"
+            "translate": "advancement.kleispack.tutorial.obtain_estus_flask.description"
         },
         "icon": {
             "components": {
@@ -22,7 +22,7 @@
             "id": "minecraft:potion"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_estus_flask.title"
+            "translate": "advancement.kleispack.tutorial.obtain_estus_flask.title"
         },
         "frame": "task",
         "show_toast": true,

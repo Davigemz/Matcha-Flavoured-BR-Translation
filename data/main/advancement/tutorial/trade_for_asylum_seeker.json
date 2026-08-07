@@ -13,7 +13,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.trade_for_asylum_seeker.description"
+            "translate": "advancement.kleispack.tutorial.trade_for_asylum_seeker.description"
         },
         "icon": {
             "components": {
@@ -23,7 +23,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "translate": "advancement.kleispack.trade_for_asylum_seeker.title"
+            "translate": "advancement.kleispack.tutorial.trade_for_asylum_seeker.title"
         },
         "hidden": false
     },

@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_bronze.description"
+            "translate": "advancement.kleispack.tutorial.obtain_bronze.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:phantom_membrane"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_bronze.title"
+            "translate": "advancement.kleispack.tutorial.obtain_bronze.title"
         },
         "hidden": false
     },

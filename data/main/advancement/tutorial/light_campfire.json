@@ -25,14 +25,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.light_campfire.description"
+            "translate": "advancement.kleispack.tutorial.light_campfire.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:campfire"
         },
         "title": {
-            "translate": "advancement.kleispack.light_campfire.title"
+            "translate": "advancement.kleispack.tutorial.light_campfire.title"
         },
         "hidden": false
     },

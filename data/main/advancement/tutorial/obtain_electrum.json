@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_electrum.description"
+            "translate": "advancement.kleispack.tutorial.obtain_electrum.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:heart_of_the_sea"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_electrum.title"
+            "translate": "advancement.kleispack.tutorial.obtain_electrum.title"
         },
         "hidden": false
     },

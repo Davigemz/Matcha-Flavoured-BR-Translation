@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_japanese_curry.description"
+            "translate": "advancement.kleispack.tutorial.obtain_japanese_curry.description"
         },
         "icon": {
             "components": {
@@ -20,7 +20,7 @@
             "id": "minecraft:rabbit_stew"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_japanese_curry.title"
+            "translate": "advancement.kleispack.tutorial.obtain_japanese_curry.title"
         },
         "hidden": false
     },

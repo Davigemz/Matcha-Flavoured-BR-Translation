@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_diamond.description"
+            "translate": "advancement.kleispack.tutorial.obtain_diamond.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:diamond"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_diamond.title"
+            "translate": "advancement.kleispack.tutorial.obtain_diamond.title"
         },
         "hidden": false
     },

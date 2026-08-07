@@ -76,7 +76,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_steel_tool.description"
+            "translate": "advancement.kleispack.tutorial.obtain_steel_tool.description"
         },
         "icon": {
             "components": {
@@ -86,7 +86,7 @@
             "id": "minecraft:iron_shovel"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_steel_tool.title"
+            "translate": "advancement.kleispack.tutorial.obtain_steel_tool.title"
         },
         "frame": "goal",
         "hidden": false

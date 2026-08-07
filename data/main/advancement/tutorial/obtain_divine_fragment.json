@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_divine_fragment.description"
+            "translate": "advancement.kleispack.tutorial.obtain_divine_fragment.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:turtle_scute"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_divine_fragment.title"
+            "translate": "advancement.kleispack.tutorial.obtain_divine_fragment.title"
         },
         "frame": "goal",
         "show_toast": true,

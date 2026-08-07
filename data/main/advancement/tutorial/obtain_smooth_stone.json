@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_smooth_stone.description"
+            "translate": "advancement.kleispack.tutorial.obtain_smooth_stone.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:smooth_stone"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_smooth_stone.title"
+            "translate": "advancement.kleispack.tutorial.obtain_smooth_stone.title"
         },
         "hidden": false
     },

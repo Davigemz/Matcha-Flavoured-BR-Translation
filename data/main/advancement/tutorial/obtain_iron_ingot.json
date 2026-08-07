@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_iron_ingot.description"
+            "translate": "advancement.kleispack.tutorial.obtain_iron_ingot.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:iron_ingot"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_iron_ingot.title"
+            "translate": "advancement.kleispack.tutorial.obtain_iron_ingot.title"
         },
         "hidden": false
     },

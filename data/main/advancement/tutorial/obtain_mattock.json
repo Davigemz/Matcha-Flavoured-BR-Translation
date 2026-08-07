@@ -40,7 +40,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_mattock.description"
+            "translate": "advancement.kleispack.tutorial.obtain_mattock.description"
         },
         "icon": {
             "components": {
@@ -50,7 +50,7 @@
             "id": "minecraft:stone_axe"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_mattock.title"
+            "translate": "advancement.kleispack.tutorial.obtain_mattock.title"
         },
         "frame": "goal",
         "hidden": false

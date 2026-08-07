@@ -16,7 +16,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_amber.description"
+            "translate": "advancement.kleispack.tutorial.obtain_amber.description"
         },
         "icon": {
             "components": {
@@ -26,7 +26,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_amber.title"
+            "translate": "advancement.kleispack.tutorial.obtain_amber.title"
         }
     },
     "requirements": [

@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.smith_warding_shield.description"
+            "translate": "advancement.kleispack.tutorial.smith_warding_shield.description"
         },
         "icon": {
             "components": {
@@ -46,7 +46,7 @@
             "id": "minecraft:shield"
         },
         "title": {
-            "translate": "advancement.kleispack.smith_warding_shield.title"
+            "translate": "advancement.kleispack.tutorial.smith_warding_shield.title"
         },
         "frame": "task",
         "show_toast": true,

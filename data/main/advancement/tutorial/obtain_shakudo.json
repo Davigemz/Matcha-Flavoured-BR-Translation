@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_shakudo.description"
+            "translate": "advancement.kleispack.tutorial.obtain_shakudo.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:shulker_shell"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_shakudo.title"
+            "translate": "advancement.kleispack.tutorial.obtain_shakudo.title"
         },
         "hidden": false
     },

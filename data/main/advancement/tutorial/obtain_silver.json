@@ -24,14 +24,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_silver.description"
+            "translate": "advancement.kleispack.tutorial.obtain_silver.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:prismarine_crystals"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_silver.title"
+            "translate": "advancement.kleispack.tutorial.obtain_silver.title"
         },
         "frame": "goal",
         "hidden": false

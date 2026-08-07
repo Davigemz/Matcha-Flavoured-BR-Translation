@@ -474,7 +474,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.catch_everything.description"
+            "translate": "advancement.kleispack.tutorial.catch_everything.description"
         },
         "icon": {
             "components": {
@@ -484,7 +484,7 @@
             "id": "minecraft:emerald"
         },
         "title": {
-            "translate": "advancement.kleispack.catch_everything.title"
+            "translate": "advancement.kleispack.tutorial.catch_everything.title"
         },
         "frame": "challenge",
         "hidden": false

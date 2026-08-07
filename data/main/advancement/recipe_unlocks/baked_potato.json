@@ -1,4 +1,4 @@
-{
+c:\Users\ImmortalX\Desktop\advancements\tutorial c:\Users\ImmortalX\Desktop\advancements\adv.py c:\Users\ImmortalX\Desktop\advancements\glass_bottle_from_crafting.json c:\Users\ImmortalX\Desktop\advancements\translations.json c:\Users\ImmortalX\Desktop\advancements\using_item.json c:\Users\ImmortalX\Desktop\advancements\cooking_recipes c:\Users\ImmortalX\Desktop\advancements\end c:\Users\ImmortalX\Desktop\advancements\hell c:\Users\ImmortalX\Desktop\advancements\mechanics c:\Users\ImmortalX\Desktop\advancements\particle c:\Users\ImmortalX\Desktop\advancements\recipe_unlocks{
     "parent": "minecraft:recipes/root",
     "criteria": {
         "has_primary_material": {

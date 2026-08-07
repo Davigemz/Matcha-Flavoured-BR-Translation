@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_blast_furnace.description"
+            "translate": "advancement.kleispack.tutorial.obtain_blast_furnace.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:blast_furnace"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_blast_furnace.title"
+            "translate": "advancement.kleispack.tutorial.obtain_blast_furnace.title"
         },
         "hidden": false
     },

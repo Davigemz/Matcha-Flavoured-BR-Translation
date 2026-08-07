@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_adamant.description"
+            "translate": "advancement.kleispack.tutorial.obtain_adamant.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:netherite_ingot"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_adamant.title"
+            "translate": "advancement.kleispack.tutorial.obtain_adamant.title"
         },
         "hidden": true
     },

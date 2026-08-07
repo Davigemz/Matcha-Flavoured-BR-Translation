@@ -20,14 +20,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.find_stronghold.description"
+            "translate": "advancement.kleispack.tutorial.find_stronghold.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:ender_eye"
         },
         "title": {
-            "translate": "advancement.kleispack.find_stronghold.title"
+            "translate": "advancement.kleispack.tutorial.find_stronghold.title"
         },
         "frame": "goal"
     },

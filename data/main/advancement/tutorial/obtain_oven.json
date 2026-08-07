@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_oven.description"
+            "translate": "advancement.kleispack.tutorial.obtain_oven.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:furnace"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_oven.title"
+            "translate": "advancement.kleispack.tutorial.obtain_oven.title"
         },
         "hidden": false
     },

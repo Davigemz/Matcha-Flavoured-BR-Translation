@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_bowl.description"
+            "translate": "advancement.kleispack.tutorial.obtain_bowl.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:bowl"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_bowl.title"
+            "translate": "advancement.kleispack.tutorial.obtain_bowl.title"
         },
         "hidden": false
     },

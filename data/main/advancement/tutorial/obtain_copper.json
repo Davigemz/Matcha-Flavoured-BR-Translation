@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_copper.description"
+            "translate": "advancement.kleispack.tutorial.obtain_copper.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:copper_ingot"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_copper.title"
+            "translate": "advancement.kleispack.tutorial.obtain_copper.title"
         },
         "show_toast": true,
         "announce_to_chat": true,

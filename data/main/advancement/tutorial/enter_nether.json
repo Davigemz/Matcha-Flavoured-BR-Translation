@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.enter_nether.description"
+            "translate": "advancement.kleispack.tutorial.enter_nether.description"
         },
         "icon": {
             "components": {
@@ -20,7 +20,7 @@
             "id": "minecraft:blaze_rod"
         },
         "title": {
-            "translate": "advancement.kleispack.enter_nether.title"
+            "translate": "advancement.kleispack.tutorial.enter_nether.title"
         },
         "frame": "goal"
     },

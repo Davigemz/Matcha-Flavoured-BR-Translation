@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_smithing_upgrade.description"
+            "translate": "advancement.kleispack.tutorial.obtain_smithing_upgrade.description"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:netherite_upgrade_smithing_template"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_smithing_upgrade.title"
+            "translate": "advancement.kleispack.tutorial.obtain_smithing_upgrade.title"
         },
         "hidden": false
     },

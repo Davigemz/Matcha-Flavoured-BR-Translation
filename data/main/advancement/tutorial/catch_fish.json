@@ -36,7 +36,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.catch_fish.description"
+            "translate": "advancement.kleispack.tutorial.catch_fish.description"
         },
         "icon": {
             "components": {
@@ -46,7 +46,7 @@
             "id": "minecraft:cod"
         },
         "title": {
-            "translate": "advancement.kleispack.catch_fish.title"
+            "translate": "advancement.kleispack.tutorial.catch_fish.title"
         },
         "hidden": false
     },

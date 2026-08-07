@@ -16,7 +16,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.obtain_heart.description"
+            "translate": "advancement.kleispack.tutorial.obtain_heart.description"
         },
         "icon": {
             "components": {
@@ -26,7 +26,7 @@
             "id": "minecraft:poisonous_potato"
         },
         "title": {
-            "translate": "advancement.kleispack.obtain_heart.title"
+            "translate": "advancement.kleispack.tutorial.obtain_heart.title"
         },
         "frame": "challenge",
         "show_toast": true,
