@@ -1,6 +1,6 @@
 # Matcha Flavoured: Localization Edition
 
-A unofficial fork of [**Matcha Flavoured**](https://modrinth.com/datapack/matcha-flavoured) by **Klei Wright** with **Ukrainian** and **Russian** localization support.
+An unofficial fork of [**Matcha Flavoured**](https://modrinth.com/datapack/matcha-flavoured) by **Klei Wright** with **Ukrainian** and **Russian** localization support.
 
 The original project already supports localization in most places through Minecraft's translation system. This fork completes that support by replacing the remaining hardcoded text with translation keys and providing translations.
 
