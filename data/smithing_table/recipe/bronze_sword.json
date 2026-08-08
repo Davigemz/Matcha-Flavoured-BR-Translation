@@ -59,17 +59,17 @@
                 },
                 "",
                 {
-                    "text": "When Blocking:",
+                    "translate": "item.kleispack.bronze_sword.lore.when_blocking",
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "text": "75% Melee Blocking",
+                    "translate": "item.kleispack.bronze_sword.lore.melee_blocking",
                     "color": "blue",
                     "italic": false
                 },
                 {
-                    "text": "25% Projectile Blocking",
+                    "translate": "item.kleispack.bronze_sword.lore.projectile_blocking",
                     "color": "blue",
                     "italic": false
                 }

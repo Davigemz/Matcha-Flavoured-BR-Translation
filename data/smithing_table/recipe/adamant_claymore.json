@@ -28,17 +28,17 @@
                 },
                 "",
                 {
-                    "text": "When Blocking",
+                    "translate": "item.kleispack.adamant_claymore.lore.when_blocking",
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "text": "80% Melee Blocking",
+                    "translate": "item.kleispack.adamant_claymore.lore.melee_blocking",
                     "color": "blue",
                     "italic": false
                 },
                 {
-                    "text": "70% Projectile Blocking",
+                    "translate": "item.kleispack.adamant_claymore.lore.projectile_blocking",
                     "color": "blue",
                     "italic": false
                 }

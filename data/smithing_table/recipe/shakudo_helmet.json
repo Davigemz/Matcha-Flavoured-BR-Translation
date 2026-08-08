@@ -8,12 +8,12 @@
             "minecraft:max_damage": 500,
             "minecraft:lore": [
                 {
-                    "text": "    Blindness",
+                    ["    ", "translate": "item.kleispack.shakudo_helmet.lore.blindness"],
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "text": "    Darkness",
+                    ["    ", "translate": "item.kleispack.shakudo_helmet.lore.darkness"],
                     "color": "gray",
                     "italic": false
                 },

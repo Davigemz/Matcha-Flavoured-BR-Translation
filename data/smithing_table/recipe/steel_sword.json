@@ -80,17 +80,17 @@
                 },
                 "",
                 {
-                    "text": "When Blocking:",
+                    "translate": "item.kleispack.steel_sword.lore.when_blocking",
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "text": "50% Melee Blocking",
+                    "translate": "item.kleispack.steel_sword.lore.melee_blocking",
                     "color": "blue",
                     "italic": false
                 },
                 {
-                    "text": "25% Projectile Blocking",
+                    "translate": "item.kleispack.steel_sword.lore.projectile_blocking",
                     "color": "blue",
                     "italic": false
                 }

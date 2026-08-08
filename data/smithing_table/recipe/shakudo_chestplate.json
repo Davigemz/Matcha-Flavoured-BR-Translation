@@ -8,12 +8,12 @@
             "minecraft:max_damage": 500,
             "minecraft:lore": [
                 {
-                    "text": "    Poison",
+                    ["    ", "translate": "item.kleispack.shakudo_chestplate.lore.poison"],
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "text": "    Wither",
+                    ["    ", "translate": "item.kleispack.shakudo_chestplate.lore.wither"],
                     "color": "gray",
                     "italic": false
                 },

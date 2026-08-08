@@ -8,7 +8,7 @@
             "minecraft:max_damage": 500,
             "minecraft:lore": [
                 {
-                    "text": "    Slowness",
+                    ["    ", "translate": "item.kleispack.shakudo_leggings.lore.slowness"],
                     "color": "gray",
                     "italic": false
                 },
