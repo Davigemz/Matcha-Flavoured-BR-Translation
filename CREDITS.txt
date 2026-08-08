@@ -50,12 +50,15 @@ COMMUNITY FORK / LOCALIZATION CREDITS
 This version is a community-maintained fork of Klei's Matcha Flavoured.
 
 Changes made in this fork:
-- Added Ukrainian and Russian translations
-- Added localization keys for previously hardcoded text where possible
+- Added localization support for previously hardcoded text where possible
+- Added and maintained additional language translations
 - Improved datapack localization support
+- Made adding new languages easier through standardized locale files
 
 Localization:
-- Ukrainian and Russian translations by imtlx
+- Ukrainian translation by imtlx
+- Russian translation by imtlx
+- Simplified Chinese translation by AlmeasqViolet
 
 Original project:
 - Matcha Flavoured by Klei
