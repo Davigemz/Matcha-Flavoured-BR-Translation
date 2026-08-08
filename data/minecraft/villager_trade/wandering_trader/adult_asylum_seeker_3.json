@@ -31,7 +31,7 @@
                     "italic": false
                 },
                 {
-                    "item.kleispack.asylum_seeker_application.lore.cause.war": "Cause of Emigration: War",
+                    "translate": "item.kleispack.asylum_seeker_application.lore.cause.war",
                     "color": "dark_gray",
                     "italic": false
                 },
