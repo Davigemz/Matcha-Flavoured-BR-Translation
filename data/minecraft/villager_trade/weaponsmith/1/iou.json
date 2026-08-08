@@ -9,7 +9,9 @@
                     }
                 ]
             },
-            "minecraft:item_name": "IOU"
+            "minecraft:item_name": {
+                "translate": "item.kleispack.iou"
+            }
         }
     },
     "given_item_modifiers": [],
