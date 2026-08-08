@@ -52,7 +52,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🐟 Gills (8:00)",
+                    "translate": "effect.kleispack.gills",
+                    "with": ["8:00"],
                     "color": "#7ec9e7",
                     "italic": false
                 }

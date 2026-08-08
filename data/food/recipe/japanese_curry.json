@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🗡 Strength (30:00)",
+                    "translate": "effect.kleispack.strength",
+                    "with": ["30:00"],
                     "color": "#e65f33",
                     "italic": false
                 }

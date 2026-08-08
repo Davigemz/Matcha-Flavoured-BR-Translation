@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "💀 Poison (00:30)",
+                    "translate": "effect.kleispack.poison",
+                    "with": ["00:30"],
                     "color": "#48a53b",
                     "italic": false
                 }

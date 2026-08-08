@@ -48,7 +48,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🍖 Full (2:00)",
+                    "translate": "effect.kleispack.full",
+                    "with": ["2:00"],
                     "color": "dark_green",
                     "italic": false
                 }

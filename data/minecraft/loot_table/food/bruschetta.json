@@ -60,7 +60,8 @@
                                         "italic": false
                                     },
                                     {
-                                        "text": "🗡 Strength II (2:30)",
+                                        "translate": "effect.kleispack.strength_ii",
+                                        "with": ["2:30"],
                                         "color": "#e65f33",
                                         "italic": false
                                     }

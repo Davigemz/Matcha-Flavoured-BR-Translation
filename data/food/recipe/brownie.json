@@ -16,7 +16,8 @@
                     "italic": false
                 },
                 {
-                    "text": "⛏ Haste II (2:30)",
+                    "translate": "effect.kleispack.haste_ii",
+                    "with": ["2:30"],
                     "color": "yellow",
                     "italic": false
                 }

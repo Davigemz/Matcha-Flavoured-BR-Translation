@@ -57,12 +57,14 @@
                     "italic": false
                 },
                 {
-                    "text": "🍖 Full (2:00)",
+                    "translate": "effect.kleispack.full",
+                    "with": ["2:00"],
                     "color": "dark_green",
                     "italic": false
                 },
                 {
-                    "text": "❤ Comfort (1:00)",
+                    "translate": "effect.kleispack.comfort",
+                    "with": ["1:00"],
                     "color": "#e85e8f",
                     "italic": false
                 }

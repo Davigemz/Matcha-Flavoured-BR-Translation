@@ -27,7 +27,8 @@
             },
             "minecraft:lore": [
                 {
-                    "text": "🥀 Weakness II (01:00)",
+                    "translate": "effect.kleispack.weakness_ii",
+                    "with": ["01:00"],
                     "color": "#b6a09a",
                     "italic": false
                 }

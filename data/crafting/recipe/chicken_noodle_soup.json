@@ -74,17 +74,19 @@
                     "italic": false
                 },
                 {
-                    "text": "🍖 Full (0:30)",
+                    "translate": "effect.kleispack.full",
+                    "with": ["0:30"],
                     "color": "dark_green",
                     "italic": false
                 },
                 {
-                    "text": "❤ Comfort (0:30)",
+                    "translate": "effect.kleispack.comfort",
+                    "with": ["0:30"],
                     "color": "#e85e8f",
                     "italic": false
                 },
                 {
-                    "text": "➕ Panacea",
+                    "translate": "effect.kleispack.panacea",
                     "color": "dark_purple",
                     "italic": false
                 }

@@ -27,7 +27,8 @@
             },
             "minecraft:lore": [
                 {
-                    "text": "💀 Poison II (01:00)",
+                    "translate": "effect.kleispack.poison_ii_",
+                    "with": ["01:00"],
                     "color": "#48a53b",
                     "italic": false
                 }

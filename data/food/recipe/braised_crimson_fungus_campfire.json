@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🥀 Weakness (00:30)",
+                    "translate": "effect.kleispack.weakness",
+                    "with": ["00:30"],
                     "color": "#b6a09a",
                     "italic": false
                 }

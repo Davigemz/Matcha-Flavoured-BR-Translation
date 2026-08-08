@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "👁 Night Vision (0:10)",
+                    "translate": "effect.kleispack.night_vision",
+                    "with": ["0:10"],
                     "color": "green",
                     "italic": false
                 }

@@ -31,7 +31,8 @@
                     "italic": false
                 },
                 {
-                    "text": "❤ Comfort II (0:10)",
+                    "translate": "effect.kleispack.comfort_ii",
+                    "with": ["0:10"],
                     "color": "#e85e8f",
                     "italic": false
                 }

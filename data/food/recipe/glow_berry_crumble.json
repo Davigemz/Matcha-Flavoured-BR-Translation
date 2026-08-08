@@ -44,7 +44,8 @@
                     "italic": false
                 },
                 {
-                    "text": "☽ Aura (1:00)",
+                    "translate": "effect.kleispack.aura",
+                    "with": ["1:00"],
                     "color": "#0fffa3",
                     "italic": false
                 }

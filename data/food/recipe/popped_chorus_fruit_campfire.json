@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🕴 Levitation III (0:03)",
+                    "translate": "effect.kleispack.levitation_iii",
+                    "with": ["0:03"],
                     "color": "#ae6cbc",
                     "italic": false
                 }

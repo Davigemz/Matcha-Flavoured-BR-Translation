@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "❤ Regen (10:00)",
+                    "translate": "effect.kleispack.regen",
+                    "with": ["10:00"],
                     "color": "#e85e8f",
                     "italic": false
                 }

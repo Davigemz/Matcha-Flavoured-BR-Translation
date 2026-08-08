@@ -50,7 +50,8 @@
                     "italic": false
                 },
                 {
-                    "text": "👁 Night Vision (10:00)",
+                    "translate": "effect.kleispack.night_vision",
+                    "with": ["10:00"],
                     "color": "green",
                     "italic": false
                 }

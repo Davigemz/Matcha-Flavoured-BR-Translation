@@ -53,7 +53,8 @@
                     "italic": false
                 },
                 {
-                    "text": "👻 Invisibility (10:00)",
+                    "translate": "effect.kleispack.invisibility",
+                    "with": ["10:00"],
                     "color": "#92b7ce",
                     "italic": false
                 }

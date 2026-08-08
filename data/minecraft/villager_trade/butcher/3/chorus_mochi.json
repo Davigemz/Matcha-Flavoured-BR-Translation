@@ -47,7 +47,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🕴 Levitation XXX (0:01)",
+                    "translate": "effect.kleispack.levitation_xxx",
+                    "with": ["0:01"],
                     "color": "#ae6cbc",
                     "italic": false
                 }

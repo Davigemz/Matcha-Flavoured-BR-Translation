@@ -56,7 +56,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🐟 Conduit Power (8:00)",
+                    "translate": "effect.kleispack.conduit_power",
+                    "with": ["8:00"],
                     "color": "#7ec9e7",
                     "italic": false
                 }

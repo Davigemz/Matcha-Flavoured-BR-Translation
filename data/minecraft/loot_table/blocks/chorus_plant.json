@@ -17,7 +17,7 @@
                                         "italic": false
                                     },
                                     {
-                                        "text": "🌀 Warping",
+                                        "translate": "effect.kleispack.warping",
                                         "color": "#a945b0",
                                         "italic": false
                                     }

@@ -14,7 +14,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🔥🛡 Fire Resistance (0:10)",
+                    "translate": "effect.kleispack.fire_resistance",
+                    "with": ["0:10"],
                     "color": "gold",
                     "italic": false
                 }

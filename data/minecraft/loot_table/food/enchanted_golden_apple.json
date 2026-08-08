@@ -24,17 +24,20 @@
                                         "italic": false
                                     },
                                     {
-                                        "text": "❤ Regen II (0:30)",
+                                        "translate": "effect.kleispack.regen_ii",
+                                        "with": ["0:30"],
                                         "color": "#e85e8f",
                                         "italic": false
                                     },
                                     {
-                                        "text": "🔥🛡 Fire Resistance (5:00)",
+                                        "translate": "effect.kleispack.fire_resistance",
+                                        "with": ["5:00"],
                                         "color": "gold",
                                         "italic": false
                                     },
                                     {
-                                        "text": "🛡 Resistance (5:00)",
+                                        "translate": "effect.kleispack.resistance",
+                                        "with": ["5:00"],
                                         "color": "blue",
                                         "italic": false
                                     }

@@ -23,7 +23,8 @@
             },
             "minecraft:lore": [
                 {
-                    "text": "☁ Wind-charged (05:00)",
+                    "translate": "effect.kleispack.wind_charged",
+                    "with": ["05:00"],
                     "color": "#92a1c3",
                     "italic": false
                 }

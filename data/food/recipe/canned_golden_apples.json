@@ -63,7 +63,8 @@
                     "italic": false
                 },
                 {
-                    "text": "❤ Regen II (0:20)",
+                    "translate": "effect.kleispack.regen_ii",
+                    "with": ["0:20"],
                     "color": "#e85e8f",
                     "italic": false
                 }

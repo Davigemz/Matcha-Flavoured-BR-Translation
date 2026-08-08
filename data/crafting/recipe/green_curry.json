@@ -67,12 +67,14 @@
                     "italic": false
                 },
                 {
-                    "text": "🍖 Full (1:00)",
+                    "translate": "effect.kleispack.full",
+                    "with": ["1:00"],
                     "color": "dark_green",
                     "italic": false
                 },
                 {
-                    "text": "🔥 Adrenaline (1:00)",
+                    "translate": "effect.kleispack.adrenaline",
+                    "with": ["1:00"],
                     "color": "gold",
                     "italic": false
                 }

@@ -23,7 +23,8 @@
             },
             "minecraft:lore": [
                 {
-                    "text": "💀 Wither (02:00)",
+                    "translate": "effect.kleispack.wither",
+                    "with": ["02:00"],
                     "color": "#866570",
                     "italic": false
                 }

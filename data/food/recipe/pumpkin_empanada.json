@@ -51,7 +51,8 @@
                     "italic": false
                 },
                 {
-                    "text": "🛡 Resistance (8:00)",
+                    "translate": "effect.kleispack.resistance",
+                    "with": ["8:00"],
                     "color": "blue",
                     "italic": false
                 }
