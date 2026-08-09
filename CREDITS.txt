@@ -56,9 +56,15 @@ Changes made in this fork:
 - Made adding new languages easier through standardized locale files
 
 Localization:
-- Ukrainian translation by imtlx
-- Russian translation by imtlx
+- Ukrainian translation and maintenance by imtlx
+- Russian translation adapted from the Russian localization by ArieX
 - Simplified Chinese translation by AlmeasqViolet
+
+Russian localization source:
+- ArieX - Russian fork/localization of Matcha Flavoured
+- Licensed under CC BY-NC-SA 4.0 International
+- https://github.com/AriesAlex/matcha-wiki
+- https://matcha.ariex.ru
 
 Original project:
 - Matcha Flavoured by Klei
