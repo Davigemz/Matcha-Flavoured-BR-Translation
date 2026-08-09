@@ -4,11 +4,9 @@
             "id": "minecraft:grass_block"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.root.description"
+            "translate": "advancement.kleispack.tutorial.root.title"
         },
-        "description": {
-            "translate": "advancement.kleispack.tutorial.root.description"
-        },
+        "description": "",
         "background": "minecraft:block/dirt",
         "show_toast": false,
         "announce_to_chat": false

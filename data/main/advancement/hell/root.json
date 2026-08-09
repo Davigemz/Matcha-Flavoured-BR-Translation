@@ -10,9 +10,7 @@
     "display": {
         "announce_to_chat": false,
         "background": "minecraft:block/netherrack",
-        "description": {
-            "translate": "advancement.kleispack.hell.root.description"
-        },
+        "description": "",
         "icon": {
             "count": 1,
             "id": "minecraft:netherrack"
