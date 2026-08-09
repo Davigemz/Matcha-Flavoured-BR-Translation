@@ -66,11 +66,29 @@ This project is based on the original datapack and resource pack.
 - Moved jukebox song descriptions into locale files
 - Made adding new languages possible without modifying the datapack itself
 
+### Localization Credits
+
+#### Russian localization
+
+The Russian localization in this fork is adapted from the Russian localization by **ArieX**.
+
+- [ArieX's Matcha Flavoured localization](https://github.com/AriesAlex/matcha-wiki)
+- [Russian localization website](https://matcha.ariex.ru)
+- Licensed under **CC BY-NC-SA 4.0 International**
+
+The Ukrainian localization is partially based on ArieX's Russian localization.
+
+#### Other translations
+
+- **Ukrainian** — imtlx
+- **Russian** — adapted from ArieX's localization
+- **Simplified Chinese** — AlmeasqViolet
+
 ## License
 
 This project is released under the **CC BY-NC-SA 4.0 International** license, the same license as the original project.
 
 - Original work © Klei Wright
-- Localization and modifications © imtlx
+- Localization and modifications in this fork © imtlx, except where otherwise credited.
 
 This is an unofficial fork and is not affiliated with or endorsed by the original author.
