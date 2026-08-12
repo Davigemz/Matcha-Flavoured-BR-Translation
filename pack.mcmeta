@@ -4,11 +4,11 @@
         "max_format": 107.1,
         "description": [
             {
-                "text": "Klei's Matcha Flavoured",
+                "text": "Matcha Flavoured Localization",
                 "color": "#56be4e"
             },
             {
-                "text": "\n1.03 • Localization Edition",
+                "text": "\n1.12 for 26.2",
                 "color": "#908b8b"
             }
         ]
@@ -85,15 +85,15 @@
             },
             {
                 "namespace": "minecraft",
-                "path": "recipe/acacia_wood.json"
-            },
-            {
-                "namespace": "minecraft",
                 "path": "recipe/glistering_melon_slice.json"
             },
             {
                 "namespace": "minecraft",
                 "path": "recipe/magma_cream.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipe/white_dye.json"
             },
             {
                 "namespace": "minecraft",
@@ -302,6 +302,10 @@
             {
                 "namespace": "minecraft",
                 "path": "recipe/leather_boots.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipe/bookshelf.json"
             },
             {
                 "namespace": "minecraft",
@@ -534,6 +538,14 @@
             {
                 "namespace": "minecraft",
                 "path": "recipe/smithing_table.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipe/enchanting_table.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipe/fire_charge.json"
             },
             {
                 "namespace": "minecraft",
@@ -942,10 +954,6 @@
             {
                 "namespace": "minecraft",
                 "path": "recipe/snow.json"
-            },
-            {
-                "namespace": "minecraft",
-                "path": "recipe/oak_wood.json"
             },
             {
                 "namespace": "minecraft",
