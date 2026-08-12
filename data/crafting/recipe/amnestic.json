@@ -12,12 +12,12 @@
             "minecraft:max_stack_size": 64,
             "minecraft:lore": [
                 {
-                    "text": "Causes a villager to forget who they are",
+                    "translate": "item.kleispack.amnestic.lore.effect",
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "translate": "Place on the ground next to them",
+                    "translate": "item.kleispack.amnestic.lore.effect",
                     "color": "gray",
                     "italic": false
                 }
