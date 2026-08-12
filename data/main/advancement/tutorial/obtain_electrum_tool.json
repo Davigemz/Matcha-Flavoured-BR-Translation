@@ -76,17 +76,17 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_electrum_tool.description"
+            "translate": "adv.kleispack.obtain_electrum_tool.desc"
         },
         "icon": {
             "components": {
-                "minecraft:item_model": "minecraft:electrum_sword"
+                "minecraft:item_model": "minecraft:electrum_pickaxe"
             },
             "count": 1,
             "id": "minecraft:stone_sword"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_electrum_tool.title"
+            "translate": "adv.kleispack.obtain_electrum_tool"
         },
         "frame": "challenge",
         "hidden": false

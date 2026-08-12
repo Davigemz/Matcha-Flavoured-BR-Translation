@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_gold.description"
+            "translate": "adv.kleispack.obtain_gold.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:gold_ingot"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_gold.title"
+            "translate": "adv.kleispack.obtain_gold"
         },
         "hidden": false
     },

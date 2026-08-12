@@ -24,14 +24,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_dry_grass.description"
+            "translate": "adv.kleispack.obtain_dry_grass.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:tall_dry_grass"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_dry_grass.title"
+            "translate": "adv.kleispack.obtain_dry_grass"
         },
         "show_toast": true,
         "announce_to_chat": true,

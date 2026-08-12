@@ -19,7 +19,7 @@
                     "italic": false
                 },
                 {
-                    "translate": "effect.kleispack.cleanse_maleffect",
+                    "translate": "desc.kleispack.cleanses_maleffect",
                     "color": "gray",
                     "italic": false
                 }

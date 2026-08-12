@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_nazar.description"
+            "translate": "adv.kleispack.obtain_nazar.desc"
         },
         "icon": {
             "components": {},
@@ -18,7 +18,7 @@
             "id": "minecraft:glistering_melon_slice"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_nazar.title"
+            "translate": "adv.kleispack.obtain_nazar"
         },
         "frame": "task",
         "show_toast": true,

@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_smithing_table.description"
+            "translate": "adv.kleispack.obtain_smithing_table.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:smithing_table"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_smithing_table.title"
+            "translate": "adv.kleispack.obtain_smithing_table"
         },
         "hidden": false
     },

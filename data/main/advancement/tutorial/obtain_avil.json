@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_avil.description"
+            "translate": "adv.kleispack.obtain_anvil.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:anvil"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_avil.title"
+            "translate": "adv.kleispack.obtain_anvil"
         },
         "hidden": false
     },

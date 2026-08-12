@@ -10,14 +10,16 @@
     "display": {
         "announce_to_chat": false,
         "background": "minecraft:block/netherrack",
-        "description": "",
+        "description": {
+            "text": ""
+        },
         "icon": {
             "count": 1,
             "id": "minecraft:netherrack"
         },
         "show_toast": false,
         "title": {
-            "translate": "advancement.kleispack.hell.root.title"
+            "translate": "adv.kleispack.hell.root"
         }
     },
     "requirements": [

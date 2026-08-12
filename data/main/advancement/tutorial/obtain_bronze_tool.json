@@ -76,7 +76,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_bronze_tool.description"
+            "translate": "adv.kleispack.obtain_bronze_tool.desc"
         },
         "icon": {
             "components": {
@@ -86,7 +86,7 @@
             "id": "minecraft:wooden_pickaxe"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_bronze_tool.title"
+            "translate": "adv.kleispack.obtain_bronze_tool"
         },
         "frame": "goal",
         "hidden": false

@@ -24,14 +24,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.hell.obtain_ancient_debris.description"
+            "translate": "adv.kleispack.hell.obtain_ancient_debris.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:ancient_debris"
         },
         "title": {
-            "translate": "advancement.kleispack.hell.obtain_ancient_debris.title"
+            "translate": "adv.kleispack.hell.obtain_ancient_debris"
         },
         "hidden": false
     },

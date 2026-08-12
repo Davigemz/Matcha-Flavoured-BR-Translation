@@ -1,7 +1,7 @@
 {
     "parent": "main:tutorial/obtain_estus",
     "criteria": {
-        "get_heart": {
+        "get_fragment": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_divine_fragment.description"
+            "translate": "adv.kleispack.obtain_divine_fragment.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:turtle_scute"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_divine_fragment.title"
+            "translate": "adv.kleispack.obtain_divine_fragment"
         },
         "frame": "goal",
         "show_toast": true,
@@ -30,7 +30,7 @@
     },
     "requirements": [
         [
-            "get_heart"
+            "get_fragment"
         ]
     ]
 }

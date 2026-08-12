@@ -76,17 +76,17 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_palatinate_tool.description"
+            "translate": "adv.kleispack.obtain_palatinate_tool.desc"
         },
         "icon": {
             "components": {
-                "minecraft:item_model": "minecraft:shakudo_axe"
+                "minecraft:item_model": "minecraft:shakudo_pickaxe"
             },
             "count": 1,
             "id": "minecraft:wooden_axe"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_palatinate_tool.title"
+            "translate": "adv.kleispack.obtain_palatinate_tool"
         },
         "frame": "goal",
         "hidden": false

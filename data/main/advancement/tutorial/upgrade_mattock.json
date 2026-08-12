@@ -52,17 +52,17 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.upgrade_mattock.description"
+            "translate": "adv.kleispack.upgrade_mattock.desc"
         },
         "icon": {
             "components": {
-                "minecraft:item_model": "minecraft:shakudo_dolabra"
+                "minecraft:item_model": "minecraft:steel_dolabra"
             },
             "count": 1,
             "id": "minecraft:wooden_axe"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.upgrade_mattock.title"
+            "translate": "adv.kleispack.upgrade_mattock"
         },
         "frame": "goal",
         "hidden": false

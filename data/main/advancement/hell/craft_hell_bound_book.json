@@ -10,14 +10,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.hell.craft_hell_bound_book.description"
+            "translate": "adv.kleispack.hell.craft_hell_bound_book.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:enchanted_book"
         },
         "title": {
-            "translate": "advancement.kleispack.hell.craft_hell_bound_book.title"
+            "translate": "adv.kleispack.hell.craft_hell_bound_book"
         },
         "frame": "task",
         "hidden": false

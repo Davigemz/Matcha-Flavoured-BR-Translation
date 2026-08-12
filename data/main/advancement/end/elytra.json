@@ -14,7 +14,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.end.elytra.description"
+            "translate": "adv.kleispack.end.elytra.desc"
         },
         "frame": "goal",
         "icon": {
@@ -22,7 +22,7 @@
             "id": "minecraft:elytra"
         },
         "title": {
-            "translate": "advancement.kleispack.end.elytra.title"
+            "translate": "adv.kleispack.end.elytra"
         }
     },
     "requirements": [

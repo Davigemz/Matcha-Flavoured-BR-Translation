@@ -1,5 +1,5 @@
 {
-    "parent": "main:tutorial/obtain_estus",
+    "parent": "main:tutorial/root",
     "criteria": {
         "get_item": {
             "trigger": "minecraft:inventory_changed",
@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_obol.description"
+            "translate": "adv.kleispack.obtain_obol"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:emerald"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_obol.title"
+            "translate": "adv.kleispack.obtain_obol.desc"
         },
         "hidden": true
     },

@@ -26,19 +26,30 @@
                     "color": "dark_green",
                     "italic": false
                 },
-                "",
                 {
-                    "translate": "item.kleispack.adamant_claymore.lore.when_blocking",
+                    "translate": "desc.kleispack.set_bonus",
+                    "color": "dark_gray",
+                    "italic": false
+                },
+                {
+                    "translate": "enchantment.kleispack.divinity.set_bonus",
+                    "color": "aqua",
+                    "italic": false
+                },
+                {
+                    "translate": "desc.kleispack.when_blocking",
                     "color": "gray",
                     "italic": false
                 },
                 {
-                    "translate": "item.kleispack.adamant_claymore.lore.melee_blocking",
+                    "translate": "desc.kleispack.melee_blocking",
+                    "with": ["80%"],
                     "color": "blue",
                     "italic": false
                 },
                 {
-                    "translate": "item.kleispack.adamant_claymore.lore.projectile_blocking",
+                    "translate": "desc.kleispack.projectile_blocking",
+                    "with": ["80%"],
                     "color": "blue",
                     "italic": false
                 }

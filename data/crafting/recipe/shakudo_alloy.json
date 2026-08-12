@@ -2,15 +2,12 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
-        "minecraft:copper_ingot",
-        "minecraft:copper_ingot",
-        "minecraft:copper_ingot",
-        "minecraft:copper_ingot",
-        "minecraft:copper_ingot",
-        "minecraft:copper_ingot",
-        "minecraft:gold_ingot",
-        "minecraft:gold_ingot",
-        "minecraft:gold_ingot"
+        "minecraft:copper_block",
+        "minecraft:copper_block",
+        "minecraft:copper_block",
+        "minecraft:copper_block",
+        "minecraft:gold_block",
+        "minecraft:gold_block"
     ],
     "result": {
         "count": 1,

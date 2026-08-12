@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.hell.obtain_stabilised_estus.description"
+            "translate": "adv.kleispack.hell.obtain_stabilised_estus.desc"
         },
         "icon": {
             "components": {
@@ -20,7 +20,7 @@
             "id": "minecraft:blaze_rod"
         },
         "title": {
-            "translate": "advancement.kleispack.hell.obtain_stabilised_estus.title"
+            "translate": "adv.kleispack.hell.obtain_stabilised_estus"
         },
         "frame": "task",
         "show_toast": true,

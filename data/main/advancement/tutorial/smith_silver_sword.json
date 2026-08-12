@@ -10,7 +10,7 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.smith_silver_sword.description"
+            "translate": "adv.kleispack.smith_silver_sword.desc"
         },
         "icon": {
             "components": {
@@ -21,7 +21,7 @@
             "id": "minecraft:glistering_melon_slice"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.smith_silver_sword.title"
+            "translate": "adv.kleispack.smith_silver_sword"
         },
         "frame": "task",
         "show_toast": true,

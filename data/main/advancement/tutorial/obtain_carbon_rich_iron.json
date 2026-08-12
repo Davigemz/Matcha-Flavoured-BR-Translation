@@ -16,14 +16,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_carbon_rich_iron.description"
+            "translate": "adv.kleispack.obtain_carbon_rich_iron.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:piglin_brute_spawn_egg"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_carbon_rich_iron.title"
+            "translate": "adv.kleispack.obtain_carbon_rich_iron"
         },
         "hidden": false
     },

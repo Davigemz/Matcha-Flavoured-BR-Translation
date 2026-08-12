@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_estus.description"
+            "translate": "adv.kleispack.obtain_estus.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:glowstone_dust"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_estus.title"
+            "translate": "adv.kleispack.obtain_estus"
         },
         "hidden": true
     },

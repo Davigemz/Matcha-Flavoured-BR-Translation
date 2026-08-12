@@ -14,14 +14,14 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_kiln.description"
+            "translate": "adv.kleispack.obtain_kiln.desc"
         },
         "icon": {
             "count": 1,
             "id": "minecraft:smoker"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_kiln.title"
+            "translate": "adv.kleispack.obtain_kiln"
         },
         "hidden": false
     },

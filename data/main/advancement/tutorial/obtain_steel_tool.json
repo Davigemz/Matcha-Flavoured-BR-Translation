@@ -76,17 +76,17 @@
     },
     "display": {
         "description": {
-            "translate": "advancement.kleispack.tutorial.obtain_steel_tool.description"
+            "translate": "adv.kleispack.obtain_steel_tool.desc"
         },
         "icon": {
             "components": {
-                "minecraft:item_model": "minecraft:steel_shovel"
+                "minecraft:item_model": "minecraft:steel_pickaxe"
             },
             "count": 1,
             "id": "minecraft:iron_shovel"
         },
         "title": {
-            "translate": "advancement.kleispack.tutorial.obtain_steel_tool.title"
+            "translate": "adv.kleispack.obtain_steel_tool"
         },
         "frame": "goal",
         "hidden": false
