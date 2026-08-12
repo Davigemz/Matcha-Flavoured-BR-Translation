@@ -68,13 +68,17 @@
                 },
                 {
                     "translate": "effect.kleispack.full",
-                    "with": ["1:00"],
+                    "with": [
+                        "1:00"
+                    ],
                     "color": "dark_green",
                     "italic": false
                 },
                 {
                     "translate": "effect.kleispack.adrenaline",
-                    "with": ["1:00"],
+                    "with": [
+                        "1:00"
+                    ],
                     "color": "gold",
                     "italic": false
                 }

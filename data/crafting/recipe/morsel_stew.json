@@ -41,7 +41,9 @@
                 },
                 {
                     "translate": "effect.kleispack.full",
-                    "with": ["2:00"],
+                    "with": [
+                        "2:00"
+                    ],
                     "color": "dark_green",
                     "italic": false
                 }

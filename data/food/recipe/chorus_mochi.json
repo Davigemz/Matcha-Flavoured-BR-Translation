@@ -54,7 +54,9 @@
                 },
                 {
                     "translate": "effect.kleispack.levitation_xxx",
-                    "with": ["0:01"],
+                    "with": [
+                        "0:01"
+                    ],
                     "color": "#ae6cbc",
                     "italic": false
                 }

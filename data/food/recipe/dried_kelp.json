@@ -15,7 +15,9 @@
                 },
                 {
                     "translate": "effect.kleispack.gills",
-                    "with": ["0:10"],
+                    "with": [
+                        "0:10"
+                    ],
                     "color": "#7ec9e7",
                     "italic": false
                 }

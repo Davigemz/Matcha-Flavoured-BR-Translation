@@ -24,7 +24,9 @@
             "minecraft:lore": [
                 {
                     "translate": "effect.kleispack.weaving",
-                    "with": ["05:00"],
+                    "with": [
+                        "05:00"
+                    ],
                     "color": "#a78b93",
                     "italic": false
                 }

@@ -15,7 +15,9 @@
                 },
                 {
                     "translate": "effect.kleispack.weakness",
-                    "with": ["00:30"],
+                    "with": [
+                        "00:30"
+                    ],
                     "color": "#b6a09a",
                     "italic": false
                 }

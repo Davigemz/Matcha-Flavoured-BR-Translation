@@ -54,7 +54,9 @@
                 },
                 {
                     "translate": "effect.kleispack.fire_resistance",
-                    "with": ["10:00"],
+                    "with": [
+                        "10:00"
+                    ],
                     "color": "gold",
                     "italic": false
                 }

@@ -52,7 +52,9 @@
                 },
                 {
                     "translate": "effect.kleispack.invisibility",
-                    "with": ["5:00"],
+                    "with": [
+                        "5:00"
+                    ],
                     "color": "#92b7ce",
                     "italic": false
                 }

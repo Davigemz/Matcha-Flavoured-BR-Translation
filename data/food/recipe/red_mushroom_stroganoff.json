@@ -53,7 +53,9 @@
                 },
                 {
                     "translate": "effect.kleispack.poison",
-                    "with": ["5:10"],
+                    "with": [
+                        "5:10"
+                    ],
                     "color": "#48a53b",
                     "italic": false
                 }

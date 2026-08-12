@@ -25,19 +25,25 @@
                                     },
                                     {
                                         "translate": "effect.kleispack.regen_ii",
-                                        "with": ["0:30"],
+                                        "with": [
+                                            "0:30"
+                                        ],
                                         "color": "#e85e8f",
                                         "italic": false
                                     },
                                     {
                                         "translate": "effect.kleispack.fire_resistance",
-                                        "with": ["5:00"],
+                                        "with": [
+                                            "5:00"
+                                        ],
                                         "color": "gold",
                                         "italic": false
                                     },
                                     {
                                         "translate": "effect.kleispack.resistance",
-                                        "with": ["5:00"],
+                                        "with": [
+                                            "5:00"
+                                        ],
                                         "color": "blue",
                                         "italic": false
                                     }

@@ -11,4 +11,4 @@ execute unless stopwatch 1s ..0.9 run execute if score @s apotropaic matches 1 r
 execute unless stopwatch 1s ..0.9 run execute if score @s apotropaic matches 2 run function main:enchantment_effects/warding2
 execute unless stopwatch 0.5s ..0.4 run execute if score @s apotropaic matches 3 run function main:enchantment_effects/warding2
 execute unless stopwatch 0.5s ..0.4 run execute if score @s apotropaic matches 4 run function main:enchantment_effects/warding3
-execute unless stopwatch divinity30s ..29.9 run execute if score @s apotropaic matches 4 run effect give @p minecraft:absorption 30 1 true
+execute unless stopwatch divinity30s ..29.9 run execute if score @s apotropaic matches 4 run effect give @p minecraft:absorption 30 1 true

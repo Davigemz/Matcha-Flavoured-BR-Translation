@@ -15,7 +15,9 @@
                 },
                 {
                     "translate": "effect.kleispack.haste_ii",
-                    "with": ["30:00"],
+                    "with": [
+                        "30:00"
+                    ],
                     "color": "yellow",
                     "italic": false
                 }

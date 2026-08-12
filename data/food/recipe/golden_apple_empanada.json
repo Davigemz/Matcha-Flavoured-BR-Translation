@@ -63,7 +63,9 @@
                 },
                 {
                     "translate": "effect.kleispack.regen_ii",
-                    "with": ["0:45"],
+                    "with": [
+                        "0:45"
+                    ],
                     "color": "#e85e8f",
                     "italic": false
                 }

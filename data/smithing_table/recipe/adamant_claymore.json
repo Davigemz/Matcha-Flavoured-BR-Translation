@@ -43,13 +43,17 @@
                 },
                 {
                     "translate": "desc.kleispack.melee_blocking",
-                    "with": ["80%"],
+                    "with": [
+                        "80%"
+                    ],
                     "color": "blue",
                     "italic": false
                 },
                 {
                     "translate": "desc.kleispack.projectile_blocking",
-                    "with": ["80%"],
+                    "with": [
+                        "80%"
+                    ],
                     "color": "blue",
                     "italic": false
                 }

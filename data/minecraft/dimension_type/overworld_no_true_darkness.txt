@@ -53,4 +53,4 @@
 		"min_inclusive": 0
 	},
 	"timelines": "#minecraft:in_overworld"
-}
+}

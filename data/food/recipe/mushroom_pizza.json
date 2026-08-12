@@ -58,7 +58,9 @@
                 },
                 {
                     "translate": "effect.kleispack.strength",
-                    "with": ["3:00"],
+                    "with": [
+                        "3:00"
+                    ],
                     "color": "#e65f33",
                     "italic": false
                 }

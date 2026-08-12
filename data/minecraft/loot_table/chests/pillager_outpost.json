@@ -52,7 +52,7 @@
                     ],
                     "name": "minecraft:emerald",
                     "weight": 2
-        },
+                },
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:rabbit_hide",
@@ -67,11 +67,11 @@
                             }
                         }
                     ]
-                        }
-                    ],
+                }
+            ],
             "rolls": 3
-                },
-                {
+        },
+        {
             "rolls": 1,
             "entries": [
                 {
@@ -83,10 +83,10 @@
                             "count": {
                                 "min": 8,
                                 "max": 16
+                            }
                         }
-                }
                     ]
-            }
+                }
             ]
         },
         {

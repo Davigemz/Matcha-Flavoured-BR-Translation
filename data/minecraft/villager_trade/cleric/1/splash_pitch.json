@@ -29,13 +29,17 @@
             "minecraft:lore": [
                 {
                     "translate": "effect.kleispack.darkness",
-                    "with": ["01:00"],
+                    "with": [
+                        "01:00"
+                    ],
                     "color": "#37a9a8",
                     "italic": false
                 },
                 {
                     "translate": "effect.kleispack.blindness",
-                    "with": ["00:30"],
+                    "with": [
+                        "00:30"
+                    ],
                     "color": "#37a9a8",
                     "italic": false
                 }

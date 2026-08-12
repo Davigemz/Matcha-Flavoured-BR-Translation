@@ -24,7 +24,9 @@
             "minecraft:lore": [
                 {
                     "translate": "effect.kleispack.wind_charged",
-                    "with": ["05:00"],
+                    "with": [
+                        "05:00"
+                    ],
                     "color": "#92a1c3",
                     "italic": false
                 }

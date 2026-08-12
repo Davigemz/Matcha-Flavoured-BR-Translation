@@ -66,13 +66,17 @@
                 },
                 {
                     "text": "effect.kleispack.invisibility",
-                    "with": ["5:00"],
+                    "with": [
+                        "5:00"
+                    ],
                     "color": "#92b7ce",
                     "italic": false
                 },
                 {
                     "text": "effect.kleispack.strength",
-                    "with": ["3:00"],
+                    "with": [
+                        "3:00"
+                    ],
                     "color": "#e65f33",
                     "italic": false
                 }
