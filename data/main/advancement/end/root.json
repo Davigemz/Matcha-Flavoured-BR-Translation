@@ -19,7 +19,7 @@
         },
         "show_toast": false,
         "title": {
-            "translate": "advancement.kleispack.end.root.title"
+            "translate": "adv.kleispack.end.root.title"
         }
     },
     "requirements": [
